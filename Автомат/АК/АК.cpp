@@ -227,7 +227,6 @@ int main()
 
     while (true)
     {
-        cout << "\n" << string(60, '-') << endl;
         cout << " МЕНЮ:" << endl;
         cout << " 1. Запустить тестирование" << endl;
         cout << " 2. Интерактивный режим" << endl;
